@@ -15,3 +15,5 @@ Each attack is worth 25 points.
 Defeat the robot, and you will save the day.
 Be careful though if you guess wrong more than 3 times, its game over.
 Your score will be shown at the end.
+
+- Written by Deeshai Escoffery (2015)
